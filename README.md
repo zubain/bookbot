@@ -1,3 +1,3 @@
 # bookbot
 
-Hello!
+Hello! My first project (but not really)
